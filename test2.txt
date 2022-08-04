@@ -1,2 +1,5 @@
-master branchTest2
-re:try
+<<<<<<< HEAD
+master whatthe
+=======
+master whatthe
+>>>>>>> branchTest
